@@ -1,3 +1,3 @@
 # TestRepo
-nova linija
+promena postojeceg reda remote
 i jos jedna na develop branch-u
